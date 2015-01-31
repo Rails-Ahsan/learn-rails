@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="RUBY_MODULE" version="4">
   <component name="CompassSettings">
-    <option name="compassExecutableFilePath" value="$USER_HOME$/.rvm/gems/ruby-2.0.0-p598/gems/compass-0.12.7/bin/compass" />
+    <option name="compassExecutableFilePath" value="$USER_HOME$/.rvm/gems/ruby-2.0.0-p598/gems/compass-1.0.3/bin/compass" />
     <option name="compassSupportEnabled" value="true" />
     <option name="importPaths">
       <list>
@@ -147,14 +147,16 @@
     <orderEntry type="library" scope="PROVIDED" name="coffee-rails (v4.0.1, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coffee-script (v2.3.0, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coffee-script-source (v1.9.0, RVM: ruby-2.0.0-p598) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="compass (v0.12.7, RVM: ruby-2.0.0-p598) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="compass (v1.0.3, RVM: ruby-2.0.0-p598) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="compass-core (v1.0.3, RVM: ruby-2.0.0-p598) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="compass-import-once (v1.0.5, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="compass-rails (v2.0.0, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="erubis (v2.7.0, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="execjs (v2.2.2, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="extlib (v0.9.16, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="faraday (v0.9.1, RVM: ruby-2.0.0-p598) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ffi (v1.9.6, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="figaro (v1.1.0, RVM: ruby-2.0.0-p598) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="fssm (v0.2.10, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="gibbon (v1.1.4, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="google-api-client (v0.8.2, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="google_drive (v1.0.0, RVM: ruby-2.0.0-p598) [gem]" level="application" />
@@ -185,9 +187,10 @@
     <orderEntry type="library" scope="PROVIDED" name="rails_layout (v1.0.24, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="railties (v4.0.1, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rake (v10.4.2, RVM: ruby-2.0.0-p598) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rb-fsevent (v0.9.4, RVM: ruby-2.0.0-p598) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rb-inotify (v0.9.5, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rdoc (v4.2.0, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="retriable (v1.4.1, RVM: ruby-2.0.0-p598) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="sass (v3.2.19, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sass-rails (v4.0.5, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sdoc (v0.4.1, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="signet (v0.6.0, RVM: ruby-2.0.0-p598) [gem]" level="application" />
@@ -203,7 +206,6 @@
     <orderEntry type="library" scope="PROVIDED" name="tzinfo (v0.3.42, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="uglifier (v2.7.0, RVM: ruby-2.0.0-p598) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="zurb-foundation (v4.3.2, RVM: ruby-2.0.0-p598) [gem]" level="application" />
-    <orderEntry type="library" name="compass-library" level="project" />
   </component>
   <component name="RModuleSettingsStorage">
     <LOAD_PATH number="0" />
